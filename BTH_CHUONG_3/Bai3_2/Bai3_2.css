@@ -1,0 +1,26 @@
+.container {
+    background-color: aliceblue;
+}
+
+.header {
+    text-align: center;
+    color: red;
+}
+
+
+.body > #para-1, 
+.body > #para-2 {
+    font-size: 14px;
+    font-style: italic;
+    margin: 0;
+}
+
+.body > #para-1 {
+    color: white;
+    background-color: blue;
+}
+
+.body > #para-2 {
+    color: yellow;
+    background-color: brown;
+}
